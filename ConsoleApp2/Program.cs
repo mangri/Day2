@@ -101,6 +101,7 @@ namespace ConsoleApp2
             int kiekMetu = 3;
             Console.WriteLine($"city: {miestas}, street: {gatve}, house number: {numeris}, build year: {buildYear}," +
                 $"start of construction: {pradzia}, how long: {kiekMetu}");
+            //naujas
 
 
 
