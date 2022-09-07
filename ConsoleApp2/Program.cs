@@ -10,7 +10,7 @@ namespace ConsoleApp2
             Console.WriteLine(DateTime.Now);
             Console.WriteLine(DateTime.Now.AddMonths(2));
             var LastName ="mangri"
-            astName = 123.ToString();
+            LastName = 123.ToString();
             Console.WriteLine(LastName + LastName.GetType());
             Console.WriteLine($"{LastName} {LastName.GetType()}");
             Console.WriteLine("{0} {1}", LastName, LastName.GetType());
