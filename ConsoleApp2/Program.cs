@@ -6,7 +6,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {/*
-        //**********REIKIA PATAISYTI, ROW 104***********\\
+        //**********REIKIA PATAISYTI, ROW 104************\\
             Console.WriteLine("Hello World!");
             Console.WriteLine(DateTime.Now);
             Console.WriteLine(DateTime.Now.AddMonths(2));
